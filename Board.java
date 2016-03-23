@@ -3,9 +3,6 @@ import java.util.Random;
 
 /**
  * @author: Abhigya Ghimire
- * @email:  aghimire@ucsd.edu
- * @PID:    A11628841
- * @user:   cs8bbe
  * @about: Board class creates a Board and checks if a move can be made or not.
  *         This class also merges the tiles and does most of the mathematics
  *         involved in the game.
