@@ -2,9 +2,6 @@ import java.util.Scanner;
 
 /**
  * @author: Abhigya Ghimire
- * @email:  aghimire@ucsd.edu
- * @PID:    A11628841
- * @user:   cs8bbe
  * @about:   Game class' main function is to take the input from the user using 
  *		     takeInput() , print the Board using printBoard(), print the Menu using
  *   		 printMenu() and makes sure that all the inputs are valid using checkInput()
